@@ -5,6 +5,9 @@ repo: status-page # The name of this repository
 sites:
   - name: Novatra
     url: https://novatra.in
+  - name: Novatra Quiz
+    url: https://quiz.novatra.in
+    
 
 assignees: # Users to assign downtime issues (optional)
   - SpreadSheets600
