@@ -7,7 +7,7 @@ sites:
     url: https://novatra.in
   - name: Novatra Quiz
     url: https://quiz.novatra.in
-    icon: https://static.novatra.in/favicon.ico
+    icon: https://novatra.in/static/imgs/favicon.ico
     
 
 assignees: # Users to assign downtime issues (optional)
