@@ -1,6 +1,6 @@
 # Change these first
 owner: Novatra # Your GitHub organization or username, where this repository lives
-repo: uptimer # The name of this repository
+repo: status-page # The name of this repository
 
 sites:
   - name: Novatra
@@ -16,9 +16,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /your-repo-name
   theme: light
-  themeUrl: https://status.novatra.in/novatra-theme.css
   cname: status.novatra.in
-  logoUrl: https://raw.githubusercontent.com/Novatra/assets/refs/heads/main/logos/novatra.png
+  themeUrl: https://status.novatra.in/novatra-theme.css
   favicon: https://novatra.in/static/imgs/favicon.ico
   name: Novatra Status Page
   navbar:
@@ -26,5 +25,6 @@ status-website:
       href: https://novatra.in
 workflowSchedule:
   uptime: "*/15 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
