@@ -20,6 +20,7 @@ status-website:
   # baseUrl: /your-repo-name
   theme: light
   cname: status.novatra.in
+  logoUrl: https://status.novatra.in/novatra.png
   themeUrl: https://status.novatra.in/novatra-theme.css
   favicon: https://static.novatra.in/favicon.ico
   name: Novatra Status Page
