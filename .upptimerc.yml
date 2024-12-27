@@ -18,7 +18,7 @@ status-website:
   theme: light
   cname: status.novatra.in
   themeUrl: https://status.novatra.in/novatra-theme.css
-  favicon: https://novatra.in/static/imgs/favicon.ico
+  favicon: https://static.novatra.in/favicon.ico
   name: Novatra Status Page
   navbar:
     - title: Visit Site
