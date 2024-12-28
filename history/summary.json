@@ -4,18 +4,20 @@
     "url": "https://novatra.in",
     "icon": "https://icons.duckduckgo.com/ip3/novatra.in.ico",
     "slug": "novatra",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1459,
-    "timeDay": 1459,
-    "timeWeek": 1459,
-    "timeMonth": 1459,
-    "timeYear": 1459,
-    "dailyMinutesDown": {}
+    "time": 1364,
+    "timeDay": 1788,
+    "timeWeek": 1364,
+    "timeMonth": 1364,
+    "timeYear": 1364,
+    "dailyMinutesDown": {
+      "2024-12-28": 0
+    }
   },
   {
     "name": "Novatra Quiz",
