@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/novatra.in.ico",
     "slug": "novatra",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
-    "time": 1582,
-    "timeDay": 2047,
-    "timeWeek": 1582,
-    "timeMonth": 1582,
-    "timeYear": 1582,
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 1597,
+    "timeDay": 1888,
+    "timeWeek": 1766,
+    "timeMonth": 1597,
+    "timeYear": 1597,
     "dailyMinutesDown": {
       "2024-12-28": 71
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 618,
-    "timeWeek": 510,
-    "timeMonth": 510,
-    "timeYear": 510,
+    "time": 509,
+    "timeDay": 494,
+    "timeWeek": 518,
+    "timeMonth": 509,
+    "timeYear": 509,
     "dailyMinutesDown": {}
   }
 ]
