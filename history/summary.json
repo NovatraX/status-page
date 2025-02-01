@@ -25,17 +25,19 @@
     "url": "https://quiz.novatra.in",
     "icon": "https://novatra.in/static/imgs/favicon.ico",
     "slug": "novatra-quiz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 647,
-    "timeDay": 1097,
-    "timeWeek": 1020,
-    "timeMonth": 691,
-    "timeYear": 647,
-    "dailyMinutesDown": {}
+    "time": 651,
+    "timeDay": 946,
+    "timeWeek": 992,
+    "timeMonth": 694,
+    "timeYear": 651,
+    "dailyMinutesDown": {
+      "2025-02-01": 0
+    }
   }
 ]
