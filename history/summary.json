@@ -4,10 +4,10 @@
     "url": "https://novatra.in",
     "icon": "https://icons.duckduckgo.com/ip3/novatra.in.ico",
     "slug": "novatra",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.63%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.62%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.62%",
     "time": 1825,
@@ -16,6 +16,7 @@
     "timeMonth": 1964,
     "timeYear": 1825,
     "dailyMinutesDown": {
+      "2025-02-03": 1,
       "2025-01-31": 138,
       "2024-12-28": 71
     }
@@ -26,18 +27,18 @@
     "icon": "https://novatra.in/static/imgs/favicon.ico",
     "slug": "novatra-quiz",
     "status": "down",
-    "uptime": "94.72%",
+    "uptime": "94.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.01%",
-    "uptimeMonth": "93.56%",
-    "uptimeYear": "94.72%",
+    "uptimeWeek": "68.32%",
+    "uptimeMonth": "92.71%",
+    "uptimeYear": "94.07%",
     "time": 659,
     "timeDay": 780,
     "timeWeek": 961,
     "timeMonth": 710,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-02-03": 102,
+      "2025-02-03": 474,
       "2025-02-02": 1440,
       "2025-02-01": 1280
     }
