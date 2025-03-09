@@ -8,12 +8,7 @@ sites:
   - name: Novatra Quiz
     url: https://quiz.novatra.in
     icon: https://novatra.in/static/imgs/favicon.ico
-    
 
-assignees: # Users to assign downtime issues (optional)
-  - SpreadSheets600
-  - Utkarsh-username
-  - udit-001
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
