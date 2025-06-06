@@ -1,8 +1,8 @@
 :root {
-  --body-background-color: #dee5d4;
-  --body-text-color: #3f4842;
+  --body-background-color: #fff;
+  --body-text-color: #394e6a;
   --card-background-color: #efefef;
-  --nav-background-color: #3f4842;
+  --nav-background-color: #e5e7eb;
   --nav-border-bottom-color: #d8e8e4;
   --nav-current-border-bottom-color: #1abc9c;
   --card-border-color: #d8e8e4;
@@ -26,7 +26,7 @@
 }
 
 nav {
-  color: #dee5d4;
+  color: #394e6a;
 }
 
 footer {
