@@ -4,7 +4,7 @@
     "url": "https://novatra.in",
     "icon": "https://icons.duckduckgo.com/ip3/novatra.in.ico",
     "slug": "novatra",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1714,
     "timeYear": 1389,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2026-04-21": 96,
       "2026-04-14": 78,
       "2026-04-10": 44,
