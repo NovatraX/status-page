@@ -4,9 +4,9 @@
     "url": "https://novatra.in",
     "icon": "https://icons.duckduckgo.com/ip3/novatra.in.ico",
     "slug": "novatra",
-    "status": "up",
+    "status": "down",
     "uptime": "98.31%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.15%",
     "uptimeYear": "99.15%",
@@ -26,7 +26,8 @@
       "2026-08-07": 1179,
       "2026-08-06": 1440,
       "2026-08-05": 1211,
-      "2026-08-10": 45
+      "2026-08-10": 45,
+      "2026-08-20": 0
     }
   }
 ]
