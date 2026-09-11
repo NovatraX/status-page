@@ -4,16 +4,16 @@
     "url": "https://novatra.in",
     "icon": "https://icons.duckduckgo.com/ip3/novatra.in.ico",
     "slug": "novatra",
-    "status": "down",
-    "uptime": "98.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.82%",
-    "uptimeMonth": "95.09%",
-    "uptimeYear": "98.74%",
+    "status": "up",
+    "uptime": "98.11%",
+    "uptimeDay": "84.87%",
+    "uptimeWeek": "95.66%",
+    "uptimeMonth": "94.59%",
+    "uptimeYear": "98.70%",
     "time": 1245,
-    "timeDay": 1088,
-    "timeWeek": 1203,
-    "timeMonth": 1143,
+    "timeDay": 1150,
+    "timeWeek": 1204,
+    "timeMonth": 1145,
     "timeYear": 1229,
     "dailyMinutesDown": {
       "2026-03-25": 62,
@@ -34,7 +34,8 @@
       "2026-09-01": 432,
       "2026-09-02": 224,
       "2026-09-03": 203,
-      "2026-09-05": 220
+      "2026-09-05": 220,
+      "2026-09-11": 218
     }
   }
 ]
